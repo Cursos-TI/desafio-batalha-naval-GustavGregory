@@ -1,4 +1,3 @@
-```markdown
 # 🚢 Batalha Naval em C — Nível Novato
 
 Este projeto é o primeiro desafio do jogo **Batalha Naval**, feito em linguagem C.  
@@ -29,7 +28,6 @@ O objetivo foi aprender a usar **matriz bidimensional** (vetor 2D) para represen
 
 ## 📤 Exemplo de saída
 
-```
 
 \=== POSICIONAMENTO DOS NAVIOS ===
 
@@ -53,8 +51,6 @@ Coordenada: (2, 3)
 
 Legenda: 0 = Água | 3 = Navio
 
-```
-
 ---
 
 ## ✅ Conclusão
@@ -62,6 +58,3 @@ Com este desafio aprendi a:
 - Criar e manipular matrizes em C.
 - Posicionar elementos (navios) dentro de limites definidos.
 - Exibir informações no console de forma clara e organizada.
-
-Este foi o primeiro passo na construção do jogo de **Batalha Naval**.  
-```
